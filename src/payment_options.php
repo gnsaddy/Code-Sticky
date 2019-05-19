@@ -22,7 +22,7 @@
          
      </p><!-- lead text-center Finish -->
      
-     <center><!-- center Begin -->
+     <div style="text-align: center;"><!-- center Begin -->
          
         <p class="lead"><!-- lead Begin -->
             
@@ -36,6 +36,6 @@
             
         </p> <!-- lead Finish -->
          
-     </center><!-- center Finish -->
+     </div><!-- center Finish -->
     
 </div><!-- box Finish -->
