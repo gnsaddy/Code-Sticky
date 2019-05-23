@@ -103,12 +103,12 @@
                 
                 <p><!-- p Start -->
                     
-                    <strong>M-Dev Media inc.</strong>
-                    <br/>Cibubur
-                    <br/>Ciracas
-                    <br/>0818-0683-3157
-                    <br/>mugianto4th@gmail.com
-                    <br/><strong>MrGhie</strong>
+                    <strong>Code-Sticky inc.</strong>
+                    <br/>Banglore
+                    <br/>India
+                    <br/>8271388851
+                    <br/>aditya.x510@gmail.com
+
                     
                 </p><!-- p Finish -->
                 

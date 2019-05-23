@@ -147,7 +147,7 @@
                
                </div><!-- row Finish -->
                
-               <center>
+               <div style="text-align: center;">
                    <ul class="pagination"><!-- pagination Begin -->
 					 <?php
                              
@@ -200,7 +200,7 @@
 					 ?> 
                        
                    </ul><!-- pagination Finish -->
-               </center>
+               </div>
                 
                 <?php 
                

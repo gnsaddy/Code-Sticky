@@ -36,11 +36,11 @@
                    
                    <div class="box-header"><!-- box-header Begin -->
                        
-                       <center><!-- center Begin -->
+                       <div style="text-align: center;"><!-- center Begin -->
                            
                            <h2> Register a new account </h2>
                            
-                       </center><!-- center Finish -->
+                       </div><!-- center Finish -->
                        
                        <form action="customer_register.php" method="post" enctype="multipart/form-data"><!-- form Begin -->
                            
@@ -56,7 +56,7 @@
                                
                                <label>Your Email</label>
                                
-                               <input type="text" class="form-control" name="c_email" required>
+                               <input type="email" class="form-control" name="c_email" required>
                                
                            </div><!-- form-group Finish -->
                            
@@ -67,6 +67,11 @@
                                <input type="password" class="form-control" name="c_pass" required>
                                
                            </div><!-- form-group Finish -->
+                           <label>Confirm Password</label>
+
+                           <input type="password" class="form-control" name="conPass" required>
+
+                   </div><!-- form-group Finish -->
                            
                            <div class="form-group"><!-- form-group Begin -->
                                
@@ -88,7 +93,7 @@
                                
                                <label>Your Contact</label>
                                
-                               <input type="text" class="form-control" name="c_contact" required>
+                               <input type="text" class="form-control" name="c_contact" required maxlength="11">
                                
                            </div><!-- form-group Finish -->
                            
@@ -152,6 +157,8 @@ if(isset($_POST['register'])){
     $c_email = $_POST['c_email'];
     
     $c_pass = $_POST['c_pass'];
+
+    $conPass = $_POST['conPass'];
     
     $c_country = $_POST['c_country'];
     
@@ -168,10 +175,23 @@ if(isset($_POST['register'])){
     $c_ip = getRealIpUser();
     
     move_uploaded_file($c_image_tmp,"customer/customer_images/$c_image");
+
+
     
     $insert_customer = "insert into customers (customer_name,customer_email,customer_pass,customer_country,customer_city,customer_contact,customer_address,customer_image,customer_ip) values ('$c_name','$c_email','$c_pass','$c_country','$c_city','$c_contact','$c_address','$c_image','$c_ip')";
-    
-    $run_customer = mysqli_query($con,$insert_customer);
+
+    if($c_pass == $conPass) {
+
+        $run_customer = mysqli_query($con, $insert_customer);
+        echo "<script>alert('You have been Registered Sucessfully')</script>";
+    }
+    else {
+
+        $msg = "password not match";
+        echo "<script type='text/javascript'> alert('$msg');</script>";
+        echo "<script>window.open('customer_register.php','_self')</script>";
+
+    }
     
     $sel_cart = "select * from cart where ip_add='$c_ip'";
     
@@ -185,7 +205,7 @@ if(isset($_POST['register'])){
         
         $_SESSION['customer_email']=$c_email;
         
-        echo "<script>alert('You have been Registered Sucessfully')</script>";
+//        echo "<script>alert('You have been Registered Sucessfully')</script>";
         
         echo "<script>window.open('checkout.php','_self')</script>";
         
@@ -195,9 +215,9 @@ if(isset($_POST['register'])){
         
         $_SESSION['customer_email']=$c_email;
         
-        echo "<script>alert('You have been Registered Sucessfully')</script>";
+//        echo "<script>alert('You have been Registered Sucessfully')</script>";
         
-        echo "<script>window.open('index.php','_self')</script>";
+//        echo "<script>window.open('index.php','_self')</script>";
         
     }
     

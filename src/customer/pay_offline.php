@@ -23,8 +23,8 @@
             <tr><!--  tr Begin  -->
             
                 <th> Bank Account Details: </th>
-                <th> Easy Paisa, UBL Omni, Mobi Cash Details: </th>
-                <th> Western Union Details: </th>
+                <th> Paytm Bank, Noida UP, UPI  Details: </th>
+
 
             </tr><!--  tr Finish  -->
             
@@ -32,9 +32,8 @@
         
         <tbody><!--  tbody Begin  -->
            
-           <td> Bank Name: UBL | Account No: 180-839-032 | Branch Name: Lahore | Branch Code: 1498 </td>
-           <td> NIC #980-231-907 | Mobile No: 0931-7894-9983 | Name: MrGhie </td>
-           <td> Real Name: Mr Mughianto | Mobile No: 0931-7894-9983 Country: Pakistan | Name: MrGhie | NIC #980-231-907 </td>
+           <td> Bank Name: Paytm | Account No: 918271388851 | Branch Name: Noida | Branch Code: 011 </td>
+           <td>  addy88851@paytm | Mobile No: 8271388851 | Name: Aditya Raj </td>
             
         </tbody><!--  tbody Finish  -->
         

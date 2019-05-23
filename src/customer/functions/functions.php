@@ -107,7 +107,7 @@ function getPro(){
                     
                     <p class='price'>
                     
-                        $ $pro_price
+                        Rs $pro_price
                     
                     </p>
                     
@@ -295,7 +295,7 @@ function getpcatpro(){
                     
                     <p class='price'>
                     
-                        $ $pro_price
+                        Rs $pro_price
                     
                     </p>
                     
@@ -420,7 +420,7 @@ function getcatpro(){
                                             
                         <p class='price'>
 
-                            $$pro_price
+                            Rs $pro_price
 
                         </p>
 
@@ -510,7 +510,7 @@ function total_price(){
         
     }
     
-    echo "$" . $total;
+    echo "Rs" . $total;
     
 }
 

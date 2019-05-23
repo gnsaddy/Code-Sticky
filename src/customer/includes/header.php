@@ -132,9 +132,9 @@ if(isset($_GET['pro_id'])){
            <div class="navbar-header"><!-- navbar-header Begin -->
                
                <a href="../index.php" class="navbar-brand home"><!-- navbar-brand home Begin -->
-                   
-                   <img src="images/ecom-store-logo.png" alt="M-dev-Store Logo" class="hidden-xs">
-                   <img src="images/ecom-store-logo-mobile.png" alt="M-dev-Store Logo Mobile" class="visible-xs">
+
+                   <img src="../../images/final.png" alt="code-sticky Logo" class="img-rounded img-responsive hidden-xs">
+                   <img src="../../images/mobLogo.png" alt="code-sticky Logo" class="visible-xs img-responsive img-responsive">
                    
                </a><!-- navbar-brand home Finish -->
                

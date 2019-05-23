@@ -107,6 +107,7 @@
                                        </td>
                                        
                                        <td>
+
                                           
                                            <?php echo $pro_qty; ?>
                                            

@@ -26,11 +26,11 @@
          
         <p class="lead"><!-- lead Begin -->
             
-            <a href="#">
+            <a href="paytmpay.php">
                 
-                Paypall Payment
+                Paytm Payment bank
                 
-                <img class="img-responsive" src="images/paypall_img.png" alt="img-paypall">
+<!--                <img class="img-responsive" src="images/paypall_img.png" alt="img-paypall">-->
                 
             </a>
             
