@@ -106,7 +106,7 @@ include("functions/functions.php");
                <a href="../index.php" class="navbar-brand home"><!-- navbar-brand home Begin -->
                    
                    <img src="../images/final.png" alt=" Code-Sticky Logo" class="hidden-xs" >
-                   <img src="../src/images/final.png" alt="Code-sticky Logo Mobile" class="visible-xs">
+                   <img src="../images/final.png" alt="Code-sticky Logo Mobile" class="visible-xs">
                    
                </a><!-- navbar-brand home Finish -->
                
@@ -210,7 +210,7 @@ include("functions/functions.php");
                
                <ul class="breadcrumb"><!-- breadcrumb Begin -->
                    <li>
-                       <a href="index.php">Home</a>
+                       <a href="../                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             index.php">Home</a>
                    </li>
                    <li>
                        My Account

@@ -65,4 +65,9 @@
       <extension name="zmq" enabled="false" />
     </extensions>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="PHPUNIT_PHAR" configuration_file_path="$PROJECT_DIR$/src/phpunit.xml" custom_loader_path="" phpunit_phar_path="$PROJECT_DIR$/phpunit.phar" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </project>

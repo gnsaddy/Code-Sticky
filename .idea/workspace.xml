@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9acf6d4-f8c6-43f1-b853-97d3433b4730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/paytmpay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenseManagement (1).sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/admin_area/product_images/0lsh.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/admin_area/product_images/0lsh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/admin_area/product_images/linux.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/admin_area/product_images/linux.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/cart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/functions/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/images/1ecom-store-logo-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/images/1ecom-store-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/images/ecom-store-logo-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/images/ecom-store-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/includes/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/includes/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer/pay_offline.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/pay_offline.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customer_register.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer_register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/1ecom-store-logo-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/1ecom-store-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Screenshot from 2019-05-10 16-28-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/ecom-store-logo-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/ecom-store-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/ll.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/payment_options.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment_options.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/shop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/my_account.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/my_account.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,89 +51,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cart.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="109" selection-start-line="109" selection-end-line="109" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/customer/functions/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7680">
-              <caret line="512" column="12" selection-start-line="512" selection-start-column="12" selection-end-line="512" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/customer/pay_offline.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/customer/includes/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/images/mobLogo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/includes/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2115">
-              <caret line="141" column="121" selection-start-line="140" selection-start-column="18" selection-end-line="141" selection-end-column="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="56" selection-end-line="64" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/customer_register.php">
+        <entry file="file://$PROJECT_DIR$/src/customer/my_account.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="178" selection-start-line="178" selection-end-line="178" />
+            <state relative-caret-position="341">
+              <caret line="212" column="1312" selection-start-line="212" selection-start-column="1312" selection-end-line="212" selection-end-column="1312" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a2630261-7810-4458-909d-96014437bdfc/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admin_area/edit_cat.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,7 +80,6 @@
         <option value="$PROJECT_DIR$/src/admin_area/includes/header.php" />
         <option value="$PROJECT_DIR$/src/admin_area/index.php" />
         <option value="$PROJECT_DIR$/src/admin_area/login.php" />
-        <option value="$PROJECT_DIR$/src/customer/my_account.php" />
         <option value="$PROJECT_DIR$/src/admin_area/css/bootstrap-337.min.css" />
         <option value="$PROJECT_DIR$/src/functions/functions.php" />
         <option value="$PROJECT_DIR$/src/shop.php" />
@@ -177,9 +91,17 @@
         <option value="$PROJECT_DIR$/src/customer/includes/footer.php" />
         <option value="$PROJECT_DIR$/src/customer/includes/header.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a2630261-7810-4458-909d-96014437bdfc/console.sql" />
+        <option value="$PROJECT_DIR$/src/phpunit.xml" />
         <option value="$PROJECT_DIR$/src/customer_register.php" />
+        <option value="$PROJECT_DIR$/src/customer/my_account.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="acd87aea-faad-4679-850f-daaa6905db1f" name="apacheServer" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.2">
     <include_path>
@@ -217,35 +139,7 @@
             </path>
             <path>
               <item name="Code-Sticky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Sticky" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="customer" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-Sticky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Sticky" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="customer" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-Sticky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Sticky" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-Sticky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Sticky" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-Sticky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Sticky" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -259,11 +153,25 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="run config" />
+      <command value="&gt;phpunit --configuration config.xml " />
+      <command value="--configuration config.xml " />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,8 +185,48 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="PHPUnit.src">
+    <configuration name="PHPlocaltest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="admin_area" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/src/admin_area" />
+      <method v="2" />
+    </configuration>
+    <configuration name="src" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/src" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_pass.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/customer/change_pass.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="checkout.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/checkout.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="db.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/includes/db.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.change_pass.php" />
+      <item itemvalue="PHP Script.db.php" />
+      <item itemvalue="PHP Script.checkout.php" />
+      <item itemvalue="PHPUnit.PHPlocaltest" />
+      <item itemvalue="PHPUnit.src" />
+      <item itemvalue="PHPUnit.admin_area" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.src" />
+        <item itemvalue="PHP Script.checkout.php" />
+        <item itemvalue="PHPUnit.admin_area" />
+        <item itemvalue="PHP Script.db.php" />
+        <item itemvalue="PHP Script.change_pass.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -293,40 +241,92 @@
       <workItem from="1558401580051" duration="5820000" />
       <workItem from="1558500256904" duration="174000" />
       <workItem from="1558590400432" duration="1904000" />
+      <workItem from="1558788323932" duration="3421000" />
+      <workItem from="1558845251560" duration="612000" />
+      <workItem from="1558845924117" duration="460000" />
+      <workItem from="1558846945498" duration="1356000" />
+      <workItem from="1558848711131" duration="2089000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PHPlocaltest - 2019.05.25 at 18h 45m 54s.xml">
+      <configuration name="PHPlocaltest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.25 at 18h 47m 23s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.25 at 18h 49m 11s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PHPlocaltest - 2019.05.25 at 18h 50m 14s.xml">
+      <configuration name="PHPlocaltest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.25 at 18h 58m 00s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PHPlocaltest - 2019.05.26 at 10h 24m 07s.xml">
+      <configuration name="PHPlocaltest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.26 at 10h 33m 17s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.26 at 10h 33m 33s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.26 at 10h 37m 17s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="src - 2019.05.26 at 10h 51m 43s.xml">
+      <configuration name="src" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10646000" />
+    <option name="totallyTimeSpent" value="18584000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17900302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.19033232" />
+      <window_info id="Structure" order="1" sideWeight="0.50076807" side_tool="true" weight="0.18353474" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.5714286" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.5714286" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32930514" />
       <window_info anchor="right" id="Database" order="4" weight="0.25981873" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code_Sticky$PHPlocaltest.xml" NAME="PHPlocaltest Coverage Results" MODIFIED="1558790153950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Code_Sticky$src.xml" NAME="src Coverage Results" MODIFIED="1558848103329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/customer/logout.php">
@@ -471,61 +471,6 @@
     <entry file="file://$PROJECT_DIR$/src/EduServ (1).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/customer/my_account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/customer/functions/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7680">
-          <caret line="512" column="12" selection-start-line="512" selection-start-column="12" selection-end-line="512" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/customer/pay_offline.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/customer/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/mobLogo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" column="121" selection-start-line="140" selection-start-column="18" selection-end-line="141" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="56" selection-end-line="64" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/admin_area/edit_cat.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://DATABASE/a2630261-7810-4458-909d-96014437bdfc.SCHEMA:ecom_store">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -545,12 +490,54 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.8888888888888888" x="354.0" y="327.5" />
+          <settings layout="Hierarchic Group" zoom="0.8888888888888888" x="354.0" y="328.0" />
           <SelectedNodes />
           <Categories>
             <Category>Key columns</Category>
             <Category>Columns</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
+    <entry file="file://$PROJECT_DIR$/.phpunit.result.cache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customer/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7680">
+          <caret line="512" column="12" selection-start-line="512" selection-start-column="12" selection-end-line="512" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/phpunit.phar/phpunit.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="56" selection-end-line="64" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -561,10 +548,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/admin_area/edit_cat.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpunit">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/customer_register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="141" column="121" selection-start-line="140" selection-start-column="18" selection-end-line="141" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/mobLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customer/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customer/pay_offline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/customer/my_account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="212" column="1312" selection-start-line="212" selection-start-column="1312" selection-end-line="212" selection-end-column="1312" />
         </state>
       </provider>
     </entry>
