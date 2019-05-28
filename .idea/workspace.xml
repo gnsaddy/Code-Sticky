@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9acf6d4-f8c6-43f1-b853-97d3433b4730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/customer/my_account.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/my_account.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/customer/my_account.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="212" column="1312" selection-start-line="212" selection-start-column="1312" selection-end-line="212" selection-end-column="1312" />
+            <state relative-caret-position="3180">
+              <caret line="212" column="54" selection-start-line="212" selection-start-column="54" selection-end-line="212" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -246,6 +242,7 @@
       <workItem from="1558845924117" duration="460000" />
       <workItem from="1558846945498" duration="1356000" />
       <workItem from="1558848711131" duration="2089000" />
+      <workItem from="1559008050696" duration="97000" />
     </task>
     <servers />
   </component>
@@ -282,7 +279,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18584000" />
+    <option name="totallyTimeSpent" value="18681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -295,8 +292,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.19033232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.1925982" />
       <window_info id="Structure" order="1" sideWeight="0.50076807" side_tool="true" weight="0.18353474" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -527,13 +525,7 @@
         <state relative-caret-position="-720" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpunit.xml" />
     <entry file="file://$PROJECT_DIR$/src/checkout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -551,12 +543,8 @@
     <entry file="file://$PROJECT_DIR$/src/admin_area/edit_cat.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/phpunit">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpunit">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpunit" />
+    <entry file="file://$PROJECT_DIR$/phpunit" />
     <entry file="file://$PROJECT_DIR$/src/customer_register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -590,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/customer/my_account.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="212" column="1312" selection-start-line="212" selection-start-column="1312" selection-end-line="212" selection-end-column="1312" />
+        <state relative-caret-position="3180">
+          <caret line="212" column="54" selection-start-line="212" selection-start-column="54" selection-end-line="212" selection-end-column="54" />
         </state>
       </provider>
     </entry>

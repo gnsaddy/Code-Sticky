@@ -210,7 +210,8 @@ include("functions/functions.php");
                
                <ul class="breadcrumb"><!-- breadcrumb Begin -->
                    <li>
-                       <a href="../                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             index.php">Home</a>
+                       <a href="../index.php">Home</a>
+
                    </li>
                    <li>
                        My Account
